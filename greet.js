@@ -1,4 +1,5 @@
 /* Return a greeting string first version
+
 function greet(name) {
   return "Hello, " + name + " how are you doing today?";
 }
